@@ -27,14 +27,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.14"
-     inkscape:cx="191.22807"
+     inkscape:cx="190.78947"
      inkscape:cy="239.47368"
      inkscape:window-width="1536"
      inkscape:window-height="891"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <rect
@@ -54,7 +54,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-68,-49.5)">
+     transform="translate(-68,-49.5)"
+     inkscape:export-filename="/home/tan/git/semito-v.github.io/assets/semitofivelogo.png"
+     inkscape:export-xdpi="870.99695"
+     inkscape:export-ydpi="870.99695">
     <g
        id="g4"
        transform="matrix(0.59870548,0,0,0.59870548,41.954649,33.811692)">
@@ -220,7 +223,7 @@
                style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:11.2358px;font-family:Poppins;-inkscape-font-specification:'Poppins, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);display:inline;fill:#ffcc00;fill-opacity:1"><tspan
                  x="28.851562"
                  y="130.15164"
-                 id="tspan1">V</tspan></text>
+                 id="tspan5">V</tspan></text>
           </g>
         </g>
       </g>
@@ -231,11 +234,11 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12px;font-family:Poppins;-inkscape-font-specification:'Poppins, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-2);display:inline;fill:#000000"><tspan
            x="28.851562"
            y="130.82031"
-           id="tspan4"><tspan
+           id="tspan8"><tspan
              style="fill:#334093"
-             id="tspan2">SEMI</tspan><tspan
+             id="tspan6">SEMI</tspan><tspan
              style="fill:#ffcc00"
-             id="tspan3">TO</tspan></tspan></text>
+             id="tspan7">TO</tspan></tspan></text>
     </g>
   </g>
 </svg>

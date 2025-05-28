@@ -34,7 +34,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g3" />
   <defs
      id="defs1">
     <rect
@@ -48,10 +48,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:9.44599;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect1"
+       width="100"
+       height="100"
+       x="-1.7763568e-15"
+       y="-2.8421709e-14" />
     <g
        id="g3"
        style="display:inline"
-       transform="matrix(1.8155697,0,0,1.8155697,-309.66021,-52.753161)">
+       transform="matrix(1.4194078,0,0,1.4194078,-231.18144,-30.332162)">
       <rect
          style="display:inline;fill:#334093;fill-opacity:1;stroke:#283272;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect2"
